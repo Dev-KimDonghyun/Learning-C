@@ -1,5 +1,5 @@
 // 2025.08.14
-// 04_variable
+// 04_variable.c
 
 #include <stdio.h>
 

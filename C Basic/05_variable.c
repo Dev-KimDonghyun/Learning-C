@@ -1,5 +1,5 @@
 // 2025.08.14
-// 05_variable
+// 05_variable.c
 
 # include <stdio.h>
 
@@ -9,6 +9,6 @@ int main() {
     int c = 123;
     printf("a : %.2f \n", a); // 소수점 맞추기
     printf("c : %5d \n", c); // 자릿수 맞추기
-    printf("b : %6.3f \n", b); // 자릿수, 소수점 맞췩
+    printf("b : %6.3f \n", b); // 자릿수, 소수점 맞추기
     return 0;
 }

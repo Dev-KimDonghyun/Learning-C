@@ -1,5 +1,5 @@
 // 2025.08.13
-// 01_print
+// 01_print.c
 
 #include <stdio.h>
 
